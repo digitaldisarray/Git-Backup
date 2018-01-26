@@ -1,5 +1,5 @@
 # Git-Reader
- :briefcase: A small tool for archiving GitHub projects.
+  :floppy_disk: A small tool for archiving GitHub repos.
 # Current Features
 - Convert repo links to readme.md links
 - Convert readme links to repo links
