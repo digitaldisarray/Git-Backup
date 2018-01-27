@@ -4,6 +4,7 @@
 - Convert repo links to readme.md links
 - Convert readme links to repo links
 - Save a repo's readme.md file to a .txt
+- Convert a txt of repo links to a txt of download links.
 # TODO
 - Download repos from a .txt list
 - Download readmes from a .txt list
