@@ -1,11 +1,7 @@
-# Git-Reader
-  :floppy_disk: A small tool for archiving GitHub repos.
-# Current Features
-- Convert repo links to readme.md links
-- Convert readme links to repo links
-- Save a repo's readme.md file to a .txt
-- Convert a txt of repo links to a txt of download links.
-# TODO
-- Download repos from a .txt list
-- Download readmes from a .txt list
-- Check if the repo has a readme before trying to convert the link.
+# Git-Backup
+  :floppy_disk: A soon to be small tool for archiving GitHub repos.
+# About
+  I was originally making this to run on a pi 24/7 to make backups of my git repos. (or anyone else's)
+  This is extremely incomplete and has bad code. Maybe someday I'll fix it so it will actualy work.
+  Maybe I'll swap to python just to make it easier on myself.
+  
