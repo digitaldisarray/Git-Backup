@@ -4,6 +4,8 @@ from datetime import datetime
 # Todo:
 # Link conversion
 # Entire profile backups
+# Config file
+# Sorting options
 
 with open('repos.txt') as f:
     lines = f.readlines()
