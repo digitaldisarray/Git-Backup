@@ -1,9 +1,0 @@
-Quick note: this script ignores any line that doesn't start with http.
-
-To add a repo to backup, just paste the link in here.
-
-https://github.com/digitaldisarray/Git-Backup/
-A .zip file with the current master branch in it will be downloaded of the Git-Bakup repo.
-
-Or, if you want you can put the link for a direct download.
-Like this: https://github.com/digitaldisarray/Git-Backup/archive/master.zip
