@@ -50,8 +50,8 @@ git-backup.jar -f list.txt -o downloads
 **Terminal output:**  
 ```
 Downloaded https://github.com/digitaldisarray/Git-Backup/archive/refs/heads/master.zip
-Downloaded https://github.com/revsic/AntiDebugging/archive/refs/heads/master.zip
 Downloaded https://github.com/jhy/jsoup/archive/refs/heads/master.zip
+Downloaded https://github.com/ocornut/imgui/archive/refs/heads/master.zip
 Done!
 ```
 
