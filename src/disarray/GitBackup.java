@@ -118,7 +118,7 @@ public class GitBackup {
 	 * Prints the command line usage and exits the program with status 1
 	 */
 	private static void printUsage() {
-		System.out.println("Usage: git-backup.jar (-l/--link) <link> OR git-backup.jar (-f/--file) <file_name>");
+		System.out.println("Usage: git-backup.jar <options>\n    -l, --link <link>\n    -f, --file <file name>\n    -o, --output-path <folder name>");
 		System.exit(1);
 	}
 }
